@@ -1,12 +1,5 @@
 # **Behavioral Cloning** 
-
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
 ---
-
-**Behavioral Cloning Project**
 
 The goals / steps of this project are the following:
 * Use the simulator to collect data of good driving behavior
@@ -23,9 +16,6 @@ The goals / steps of this project are the following:
 [image3]: ./writeup_images/center_camera.jpg        "Center camera"
 [image4]: ./writeup_images/left_camera.jpg          "Left camera"
 [image5]: ./writeup_images/right_camera.jpg         "Right camera"
-
-## Rubric Points
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
 
 ---
 ### Files Submitted & Code Quality
